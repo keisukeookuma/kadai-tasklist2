@@ -202,7 +202,7 @@ return [
         'Form'      => Collective\Html\FormFacade::class,
         'Html'      => Collective\Html\HtmlFacade::class,
         //追加
-        'Gravatar'  =>Thomaswelton\LaravelGravatar\Facadas\Gravatar::class,
+        'Gravatar' => Thomaswelton\LaravelGravatar\Facades\Gravatar::class,
 
     ],
 
